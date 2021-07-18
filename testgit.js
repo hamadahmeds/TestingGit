@@ -5,5 +5,5 @@ var name = 10 ;
 total = num + 100 ;
 // sesond //
 
-//moe commend 
-//more JLKJALJ ////
+//moe sdfsf sfsf commend 
+//more new 
